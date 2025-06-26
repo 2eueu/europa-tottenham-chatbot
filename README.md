@@ -7,7 +7,7 @@ By analyzing live match commentaries from 5 matches (Quarterfinals, Semifinals, 
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 
 1. **Match-Based Search**
    - Users can enter queries like `"goal Son"` or `"penalty VAR"`  
