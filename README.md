@@ -1,6 +1,6 @@
-# ⚽ Europa Match Chatbot
+# Europa Match Chatbot
 
-## 🏆 Project Overview
+## Project Overview
 
 **Europa Match Chatbot** is an interactive system that allows users to search for highlight moments from Tottenham’s UEFA Europa League knockout stage matches.  
 By analyzing live match commentaries from 5 matches (Quarterfinals, Semifinals, and Final), the chatbot provides keyword-based scene retrieval with emojis and natural-language outputs.
@@ -39,21 +39,21 @@ By analyzing live match commentaries from 5 matches (Quarterfinals, Semifinals, 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-### 💻 Language & Tools  
+###  Language & Tools  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-### 📄 Data Format  
+### Data Format  
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 
-### ⚙️ Libraries  
+###  Libraries  
 `pandas`, `re`, `emoji`, `IPython.display`
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ```
 🆚 Tottenham vs Eintracht Frankfurt  
@@ -64,22 +64,22 @@ By analyzing live match commentaries from 5 matches (Quarterfinals, Semifinals, 
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
-📂 data/
+ data/
   ├─ comments_qf1.json
   ├─ comments_qf2.json
   ├─ comments_sf1.json
   ├─ comments_sf2.json
   └─ comments_final.json
 
-📄 uefa_comment_bot.ipynb
+ uefa_comment_bot.ipynb
 ```
 
 ---
 
-## 👤 Author
+## Author
 
 - **GaEun Lee**  
 - Department of AI Engineering, Sookmyung Women’s University  
@@ -87,6 +87,6 @@ By analyzing live match commentaries from 5 matches (Quarterfinals, Semifinals, 
 
 ---
 
-## 📄 License
+##  License
 
 MIT License © 2025 GaEun Lee (2eueu_)
