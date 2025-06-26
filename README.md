@@ -30,7 +30,7 @@ By analyzing live match commentaries from 5 matches (Quarterfinals, Semifinals, 
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User types a keyword →  
 2. System scans all match comment JSON files →  
